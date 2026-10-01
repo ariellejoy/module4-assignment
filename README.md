@@ -1,8 +1,5 @@
 This repo was updated to fulfill the Module 4 assignment. 
-The following changes were made to ensure that requirements were met: 
-- Updated app/operations/__init__.py to encapsulate the methods in the Operations class 
-- Updated app/calculator/__init__.py to call the Operations class
-- Updated tests/test_operations.py to ensure that pytests will be successful
+Please note that certain files were copied over from the previous module's assignment to ensure continuity and were not updated as part of the current assignment/objectives (EX: main.py)
 
 REMINDER: in order to use the REPL app: 
 1. use the following command: python main.py or python3 main.py
