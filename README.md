@@ -1,4 +1,4 @@
-This repo was created to fulfill the Module 3 assignment. 
+This repo was updated to fulfill the Module 4 assignment. 
 The following changes were made to ensure that requirements were met: 
 - Updated app/operations/__init__.py to encapsulate the methods in the Operations class 
 - Updated app/calculator/__init__.py to call the Operations class

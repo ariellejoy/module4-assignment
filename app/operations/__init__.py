@@ -1,6 +1,7 @@
 class Operations:
 
     @staticmethod
+    #static methods rely on input parameters and are ideal for utility functions
     def addition(a: float, b: float) -> float:
         return a + b
 
